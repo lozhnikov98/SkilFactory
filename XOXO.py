@@ -81,5 +81,5 @@ while True:
         break
 
     if num == 9:
-        print("Nich'ia")
+        print("Nno one won")
         break
